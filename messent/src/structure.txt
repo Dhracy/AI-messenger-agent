@@ -1,0 +1,13 @@
+src/
+├── components/
+│   ├── auth/
+│   ├── common/
+│   └── messaging/
+├── config/
+│   └── supabase.ts
+├── hooks/
+├── services/
+├── styles/
+│   └── theme.ts
+├── types/
+└── utils/ 
